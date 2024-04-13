@@ -1,1 +1,1 @@
-Live : https://app.netlify.com/sites/rad-crostata-4dc959/deploys/661ae88cbbe123d40bfcb9ca
+Live : https://661ae88cbbe123d40bfcb9ca--rad-crostata-4dc959.netlify.app/
